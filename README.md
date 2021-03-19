@@ -36,6 +36,8 @@ A tool for obtaining location information...
 - Weather
 - WhatsApp
 
+Warning: We do not accept any responsibility for damage or theft of information by users by you
+
 ### Operating Systems Tested
 
 - Kali Linux 2020
