@@ -3,11 +3,11 @@ A tool for obtaining location information...
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/ultrasecurity/Storm-Breaker"><img src="http://dl.sabzlearn.ir/demo/storm/1demo.png" alt="Darkside"></a>
+  <a href="https://github.com/ultrasecurity/Storm-Breaker"><img src="https://raw.githubusercontent.com/ehsangoli/Location-Hacking/main/demo.png" alt="Location-Hacking"></a>
 
 </h1>
 
-<h4 align="center">A tool with attractive capabilities</h4>
+<h4 align="center">A tool for obtaining location information...</h4>
 
 <p align="center">
   <a href="http://python.org">
@@ -39,14 +39,37 @@ A tool for obtaining location information...
 ### Operating Systems Tested
 
 - Kali Linux 2020
+- WSL (Install Windows Subsystem for Linux)
+- Windows 10, 8,7
+- Android (Termux)
+- Mac
 
-### Installation On Kali Linux
+### Installation On Kali Linux And WSL
 
 
 ```bash
-$ git clone https://github.com/ultrasecurity/Storm-Breaker
-$ cd Storm-Breaker
-$ sudo bash linux-installer.sh
-$ python3 -m pip install -r requirments.txt
-$ python3 Storm-Breaker.py
+$ git clone https://github.com/ehsangoli/Location-Hacking.git
+$ cd Location-Hacking
+$ sudo bash install.sh
+$ python3 run.py
+```
+
+### Installation On Termux
+
+
+```bash
+$ git clone https://github.com/ehsangoli/Location-Hacking.git
+$ cd Location-Hacking
+$ bash install.sh
+$ python run.py
+```
+
+### Installation On Windows
+
+
+```bash
+$ Download https://github.com/ehsangoli/Location-Hacking.git
+$ cd Location-Hacking
+$ python -m pip install -r requirments.txt
+$ python run.py
 ```
