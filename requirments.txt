@@ -4,4 +4,5 @@ requests
 win10toast
 platform
 subprocess
+neofetch-win
 os
