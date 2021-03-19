@@ -1,0 +1,7 @@
+colorama
+pyngrok
+requests
+win10toast
+platform
+subprocess
+os
