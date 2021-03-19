@@ -36,7 +36,7 @@ A tool for obtaining location information...
 - Weather
 - WhatsApp
 
-Warning: We do not accept any responsibility for damage or theft of information by users by you
+<p><h4><b>Warning:</b> We do not accept any responsibility for damage or theft of information by users by you </h4></p>
 
 ### Operating Systems Tested
 
