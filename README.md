@@ -23,15 +23,17 @@ A tool for obtaining location information...
   </a>
 </p>
 
-![demo](http://dl.sabzlearn.ir/demo/storm/cu-demo.PNG)
 
-### Features:
+### Template:
 
-- Get Device Information Without Any Permissions
-- Access Location [SMARTPHONES]
+- Google Drive
+- Near You
 - Os Password Grabber [WIN-10]
 - Access Webcam
 - Access Microphone
+- Telegram Channel
+- Weather
+- WhatsApp
 
 ![save demo](http://dl.sabzlearn.ir/demo/storm/loc-demo.PNG)
 
